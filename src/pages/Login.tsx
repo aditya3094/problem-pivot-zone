@@ -64,13 +64,9 @@ const Login = () => {
         </form>
 
         <div className="demo-users">
-          <p className="demo-title">Demo Users:</p>
+          <p className="demo-title"></p>
           <div className="demo-grid">
-            <span>Aditya / 1234</span>
-            <span>Yash / 1234</span>
-            <span>Sayali / 1234</span>
-            <span>Sneha / 1234</span>
-            <span>Raj / 1234</span>
+            
           </div>
         </div>
       </div>
